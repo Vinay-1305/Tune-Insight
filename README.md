@@ -1,4 +1,4 @@
-# 🎵 Music Store Data Analysis Using SQL
+# 🎵 Tune-Insight Using SQL
 
 ## 📌 Project Overview
 
